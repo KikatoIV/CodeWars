@@ -13,4 +13,3 @@ max_item = int(max_item_input)
 
 for count in range(max_item):
     print(fibonacci(count))
-
